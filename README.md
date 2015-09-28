@@ -1,6 +1,6 @@
 # PhoneCat Tutorial App
 
-Iniciando o estudo do AngularJs através do tutorial do framework.
+Iniciando o estudo do AngularJs.
 
 
 - [Angular Js](https://docs.angularjs.org/tutorial)
